@@ -1,0 +1,18 @@
+.header {
+  font-size: 36px;
+  font-weight: bold;
+  color: black;
+}
+.nonheader {
+  font-size: 25px;
+}
+.nonheader {
+  font-size: 20px;
+}
+.nobullets {
+  list-style-type: none;
+}
+.paragraph {
+  color: black;
+  font-size: 8.5px;
+}
